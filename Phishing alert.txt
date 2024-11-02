@@ -1,0 +1,10 @@
+
+
+Phishing alert!
+
+From: Blue Team <bt@bank.example.com>
+
+To all employees,
+please avoid opening any email with subject "Account Suspended!!!", as it is part of an ongoing phishing scam.
+
+Remember that we won't ever ask you for your credentials via email.
